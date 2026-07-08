@@ -2,9 +2,11 @@ AI-Seo-Research/
 │
 ├── README.md
 │
-└── research/
-    ├── sources.md
-    ├── linkedin-posts/
-    ├── youtube-transcripts/
-    └── other/
+└──research/
+├── linkedin-posts/
+│   └── .gitkeep
+├── youtube-transcripts/
+│   └── .gitkeep
+└── other/
+    └── .gitkeep
   
