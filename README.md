@@ -1,12 +1,10 @@
-AI-Seo-Research/
-│
+ai-seo-research/
 ├── README.md
-│
-└──research/
-├── linkedin-posts/
-│   └── .gitkeep
-├── youtube-transcripts/
-│   └── .gitkeep
-└── other/
-    └── .gitkeep
-  
+└── research/
+    ├── sources.md
+    ├── linkedin-posts/
+    │   └── .gitkeep
+    ├── youtube-transcripts/
+    │   └── .gitkeep
+    └── other/
+        └── .gitkeep
