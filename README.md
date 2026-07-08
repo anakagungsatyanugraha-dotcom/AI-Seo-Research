@@ -1,6 +1,10 @@
-# AI-Seo-Research
-research/
-├── sources.md
-├── linkedin-posts/
-├── youtube-transcripts/
-└── other/
+AI-Seo-Research/
+│
+├── README.md
+│
+└── research/
+    ├── sources.md
+    ├── linkedin-posts/
+    ├── youtube-transcripts/
+    └── other/
+  
